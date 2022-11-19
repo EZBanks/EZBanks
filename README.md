@@ -12,6 +12,8 @@ Strong understanding and proficiency of platforms including R, SQL, Python, Tabl
 
 * [Covid-19 Infections and Deaths Data Analytics project using SQL](https://github.com/EZBanks/Covid-19-Infections-and-Deaths-Data-Analytics-project)
 
+* [Data Collection using API and Web Scraping in R](https://ezbanks.github.io/Data-Collection-using-API-and-Web-Scraping-in-R/)
+
 * [IBM Capstone Project using Python](https://github.com/EZBanks/IBM-Data-Analytics-Capstone-Project)
 
 

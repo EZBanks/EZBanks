@@ -14,6 +14,8 @@ Strong understanding and proficiency of platforms including R, SQL, Python, Tabl
 
 * [Data Collection using API and Web Scraping in R](https://ezbanks.github.io/Data-Collection-using-API-and-Web-Scraping-in-R/)
 
+* [Nashville Housing Data Analytics Project using SQL](https://github.com/EZBanks/Nashville-Housing-Data-Analytics-Project)
+
 * [IBM Capstone Project using Python](https://github.com/EZBanks/IBM-Data-Analytics-Capstone-Project)
 
 

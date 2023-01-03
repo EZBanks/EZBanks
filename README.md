@@ -16,7 +16,7 @@ Strong understanding and proficiency of platforms including R, SQL, Python, Tabl
 
 * [Nashville Housing Data Analytics Project using SQL](https://github.com/EZBanks/Nashville-Housing-Data-Analytics-Project)
 
-* [IBM Capstone Project using Python](https://github.com/EZBanks/IBM-Data-Analytics-Capstone-Project)
+* [Adventure Works Production Data Analytics Project](https://github.com/EZBanks/Adventure-Works-Production-Data-Analytics-Project)
 
 
 ## My Portfolio
@@ -27,3 +27,5 @@ Strong understanding and proficiency of platforms including R, SQL, Python, Tabl
 ## Tableau
 
 [My Tableau Account](https://public.tableau.com/app/profile/andre3721/)
+
+[My Power BI Account](https://app.powerbi.com/reportEmbed?reportId=d27dc5ba-52aa-4782-b45f-b80a71d67510&autoAuth=true&ctid=c23476e1-b3f7-42ec-a7fc-971428e8b8ba)

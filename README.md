@@ -24,7 +24,7 @@ Strong understanding and proficiency of platforms including R, SQL, Python, Tabl
 [Ouatatchin Kone Portfolio](https://ezbanks.github.io/OuatatchinKone.github.io/)
 
 
-## Tableau
+## Tableau & Power BI
 
 [My Tableau Account](https://public.tableau.com/app/profile/andre3721/)
 

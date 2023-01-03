@@ -16,7 +16,7 @@ Strong understanding and proficiency of platforms including R, SQL, Python, Tabl
 
 * [Nashville Housing Data Analytics Project using SQL](https://github.com/EZBanks/Nashville-Housing-Data-Analytics-Project)
 
-* [Adventure Works Production Data Analytics Project](https://github.com/EZBanks/Adventure-Works-Production-Data-Analytics-Project)
+* [Adventure Works Production Data Analytics Project using SQL](https://github.com/EZBanks/Adventure-Works-Production-Data-Analytics-Project)
 
 
 ## My Portfolio
